@@ -1,2 +1,8 @@
 # 30-Day-Vanilla-JS-Challenge
 Build 30 things in 30 days
+
+## 1 JS Drum Kit
+![screen shot 2018-03-03 at 6 25 59 pm](https://user-images.githubusercontent.com/10985717/36941471-d093a848-1f10-11e8-94c7-e47f8b976aef.png)
+
+## 2 CSS + JS Clock
+![screen shot 2018-03-03 at 6 25 22 pm](https://user-images.githubusercontent.com/10985717/36941479-f80307a2-1f10-11e8-81b8-4511e353c310.png)
