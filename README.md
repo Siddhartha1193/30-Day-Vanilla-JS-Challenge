@@ -9,3 +9,6 @@ Build 30 things in 30 days
 
 ## 3 JS to update CSS Variables
 ![screen shot 2018-03-05 at 11 44 38 pm](https://user-images.githubusercontent.com/10985717/37020034-4673ca60-20cf-11e8-938e-9b18e22f4217.png)
+
+## 4 Array manipulation functions
+![screen shot 2018-03-06 at 12 02 26 am](https://user-images.githubusercontent.com/10985717/37020756-d0597c64-20d1-11e8-8240-010cbf7c1300.png)
