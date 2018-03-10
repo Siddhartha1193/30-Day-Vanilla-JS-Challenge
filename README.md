@@ -21,3 +21,11 @@ Build 30 things in 30 days
 ### Transition 
 
 ![screen shot 2018-03-09 at 11 42 24 pm](https://user-images.githubusercontent.com/10985717/37239672-c7226f36-23f4-11e8-9579-bdc645cf83ae.png)
+
+## 6 AutoComplete using Ajax for cities and states
+
+### Search
+![screen shot 2018-03-09 at 11 49 24 pm](https://user-images.githubusercontent.com/10985717/37239705-2e88db56-23f5-11e8-841d-848126c50192.png)
+
+### Auto complete
+![screen shot 2018-03-09 at 11 49 39 pm](https://user-images.githubusercontent.com/10985717/37239706-2ea4b04c-23f5-11e8-9403-a0465b75b02e.png)
