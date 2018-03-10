@@ -12,3 +12,12 @@ Build 30 things in 30 days
 
 ## 4 Array manipulation functions
 ![screen shot 2018-03-06 at 12 02 26 am](https://user-images.githubusercontent.com/10985717/37020756-d0597c64-20d1-11e8-8240-010cbf7c1300.png)
+
+## 5 CSS Flex Panels with Transitions
+
+### Transition 
+![screen shot 2018-03-09 at 11 42 13 pm](https://user-images.githubusercontent.com/10985717/37239671-c43d7ce8-23f4-11e8-8d10-0fa372949208.png)
+
+### Transition 
+
+![screen shot 2018-03-09 at 11 42 24 pm](https://user-images.githubusercontent.com/10985717/37239672-c7226f36-23f4-11e8-9579-bdc645cf83ae.png)
