@@ -29,3 +29,10 @@ Build 30 things in 30 days
 
 ### Auto complete
 ![screen shot 2018-03-09 at 11 49 39 pm](https://user-images.githubusercontent.com/10985717/37239706-2ea4b04c-23f5-11e8-9403-a0465b75b02e.png)
+
+## 7 Array manipulation functions 2
+
+
+![screen shot 2018-03-10 at 12 01 47 am](https://user-images.githubusercontent.com/10985717/37239791-468f4022-23f6-11e8-8fa6-e786051b3cb0.png)
+
+
